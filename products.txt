@@ -1,0 +1,3 @@
+{'Product': 'Aquarium', 'Price': '200'}
+{'Product': 'Fish', 'Price': '5'}
+('Pump', 25.0)
