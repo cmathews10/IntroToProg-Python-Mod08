@@ -240,13 +240,10 @@ except Exception as e:  # All non-custom errors.
 
 3.	Run the script in PyCharm (see pdf attachments).
 4.	Run the script in the Command Prompt window.
-    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod07/blob/main/Picture1.png "Command Prompt Window")
-    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod07/blob/main/Picture2.png "Command Prompt Window")
-    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod07/blob/main/Picture3.png "Command Prompt Window")
-    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod07/blob/main/Picture4.png "Command Prompt Window")
-    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod07/blob/main/Picture5.png "Command Prompt Window")
+    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod08/blob/main/Assignment01CMD.png "Command Prompt Window")
+    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod08/blob/main/Assignment02CMD.png "Command Prompt Window")
 5.  Confirm user input is being saved to the defined file location.
-    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod07/blob/main/Picture6.png "Command Prompt Window")
+    ![Image1](https://github.com/cmathews10/IntroToProg-Python-Mod08/blob/main/Assignment03Text.png "Text File")
 
 ## Summary
-This document outlined the steps taken to modify and update a Python script to demonstrate Pickling and Structured Error Handling.
+This document outlined the steps taken to modify and update a Python script to work with classes.
